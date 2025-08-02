@@ -18,5 +18,3 @@ This repository contains the Register Transfer Level (RTL) design and verificati
 - Designed for synthesis and simulation compatibility  
 - Verification planned using **SystemVerilog + UVM** methodology
 
-## Directory Structure (to be updated)
-
